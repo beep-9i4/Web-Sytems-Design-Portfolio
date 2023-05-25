@@ -290,3 +290,37 @@ hr{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+.contact-col-skills{
+    background-color: rgba(2, 48, 71, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 5px;
+}
+
+.gallery-col{
+    border-radius: 10px;
+    padding: 20px;
+    margin: 5px;
+}
+
+.gallery-col-4{
+    border-radius: 10px;
+    padding: 20px;
+    margin: 5px;
+    margin-bottom: 80px;
+}
+
+.gallery-col-2{
+    background-color: rgba(2, 48, 71, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.gallery-col-3{
+    background-color: rgba(235, 236, 241, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 150px;
+}
