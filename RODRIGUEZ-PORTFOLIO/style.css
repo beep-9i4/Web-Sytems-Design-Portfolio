@@ -385,3 +385,33 @@ hr{
     margin-top: -50px;
     padding-bottom: 20px;
 }
+
+.my-works {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: -50px;
+}
+
+.my-works-2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: -50px;
+}
+
+.skill-def-1 {
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #FFFFFF;
+    padding-bottom: 65px;
+}
+
+.skill-def-2 {
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #FFFFFF;
+    padding-bottom: 65px;
+}
