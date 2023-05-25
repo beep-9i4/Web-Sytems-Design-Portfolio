@@ -201,3 +201,35 @@ table, tr, td {
     text-align: center; 
     padding-top: 35px;
 }
+
+.gallery-cont {
+    text-align: center; 
+    margin-top: 400px;
+}
+
+.contact-cont-icon {
+    text-align: center; 
+}
+
+.contact-row{
+    background-color: yellow;
+}
+
+.contact-col{
+    background-color: rgba(2, 48, 71, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.contact-col-icon{
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.contact-title{
+    margin-top: 10px;
+    margin-bottom: -10px;
+    font-family: 'Squada One', cursive;
+    font-size: 40px;
+    color: #8ECAE6;
+}
