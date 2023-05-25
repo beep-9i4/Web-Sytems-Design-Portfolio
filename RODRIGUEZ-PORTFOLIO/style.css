@@ -324,3 +324,34 @@ hr{
     padding: 20px;
     margin-top: 150px;
 }
+
+.contact-col-mastery{
+    background-color: rgba(142, 202, 230, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 5px;
+}
+
+.skill-title {
+    font-size: 30px;
+    font-family: 'Squada One', cursive;
+    color: #91DDEB;
+}
+
+.skill-def {
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #FFFFFF;
+}
+
+.mastery-title {
+    font-size: 30px;
+    font-family: 'Squada One', cursive;
+    color: #D89A00;
+}
+
+.mastery-def {
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #1B1C1F;
+}
