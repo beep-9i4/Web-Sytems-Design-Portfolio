@@ -119,3 +119,24 @@ table, tr, td {
     margin-left: 200px;
     margin-right: 200px;
 }
+
+.my-profile{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+
+.container {
+    margin-top: -80px;
+    margin-bottom: -30%;
+}
+
+.row{
+    margin-top: 15%;
+}
+
+.col-sm-6{
+    text-align: right;
+    margin-top: 20px;
+}
