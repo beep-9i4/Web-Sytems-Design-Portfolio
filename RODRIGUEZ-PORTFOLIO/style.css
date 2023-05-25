@@ -447,3 +447,20 @@ hr{
     margin-top: -10px;
     padding-bottom: 20px;
 }
+
+.gallery-def-2 {
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #FFFFFF;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.gallery-def-9 {
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #794421;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-right: 30px;
+}
