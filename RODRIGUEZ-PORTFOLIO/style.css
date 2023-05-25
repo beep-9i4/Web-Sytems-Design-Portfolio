@@ -415,3 +415,35 @@ hr{
     color: #FFFFFF;
     padding-bottom: 65px;
 }
+
+.skill-def-4 {
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #FFFFFF;
+    padding-bottom: 65px;
+}
+
+.skill-def-5 {
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #FFFFFF;
+    padding-bottom: 23px;
+}
+
+.my-works-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top: -100px;
+    padding-bottom: 20px;
+}
+
+.my-works-name {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: -10px;
+    padding-bottom: 20px;
+}
