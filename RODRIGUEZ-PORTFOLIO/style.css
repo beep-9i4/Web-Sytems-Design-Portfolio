@@ -103,3 +103,19 @@ table, tr, td {
     margin-left: auto;
     margin-right: auto;
 }
+
+.first-block {
+    width: 0%;
+    white-space: nowrap;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.empty-block {
+    width: 300px;
+}
+
+.home-cont{
+    margin-left: 200px;
+    margin-right: 200px;
+}
