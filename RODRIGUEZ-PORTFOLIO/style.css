@@ -85,3 +85,21 @@ table, tr, td {
 .text:hover {
     color: #1A849D;
 }
+
+.image-logo-header {
+    width: 90px;
+    flex-shrink: 0;
+}
+
+.image-icon-logo{
+    width: 30%;
+    margin-right: auto;
+    margin-left: 35%;
+}
+
+.logo-block {
+    width: 80px;
+    white-space: nowrap;
+    margin-left: auto;
+    margin-right: auto;
+}
