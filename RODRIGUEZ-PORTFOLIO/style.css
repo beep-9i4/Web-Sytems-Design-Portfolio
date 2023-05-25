@@ -167,3 +167,37 @@ table, tr, td {
     font-size: 35px;
     color: #FFFFFF;
 }
+
+.credits-quote{
+    font-family: 'Alike', serif;
+    color: #FFFFFF;
+    background-color:#023047;
+    padding: 10px;
+    margin-left: 260px;
+}
+
+.container-1 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -60px;
+}
+
+.my-icon-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.my-icon-pages {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding-top: 18px;
+}
+
+.contact-cont {
+    text-align: center; 
+    padding-top: 35px;
+}
