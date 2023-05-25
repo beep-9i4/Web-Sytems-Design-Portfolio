@@ -17,3 +17,20 @@ body{
     height: 70px;
     margin-bottom: -40px;
 }
+
+table, tr, td {
+    border: 0px solid black;
+    border-collapse: collapse;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -55px;
+}
+
+.cont-cont {
+    position: relative;
+}
+
+.cont-cont:hover .overlay {
+    opacity: 1;
+}
