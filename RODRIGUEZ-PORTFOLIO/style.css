@@ -355,3 +355,33 @@ hr{
     font-family: 'Saira', sans-serif;
     color: #1B1C1F;
 }
+
+.mastery-def-1 {
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #1B1C1F;
+    padding-bottom: 25px;
+}
+
+.mastery-def-3 {
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #1B1C1F;
+    padding-bottom: 35px;
+}
+
+.mastery-def-4 {
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #1B1C1F;
+    padding-bottom: 78px;
+}
+
+.my-skills {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: -50px;
+    padding-bottom: 20px;
+}
