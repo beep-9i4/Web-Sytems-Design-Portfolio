@@ -140,3 +140,30 @@ table, tr, td {
     text-align: right;
     margin-top: 20px;
 }
+
+.greet1{
+    font-family: 'Squada One', cursive;
+    font-size: 50px;
+    color: #6385A1;
+}
+
+.greet2{
+    font-family: 'Squada One', cursive;
+    font-size: 100px;
+    color: #28567A;
+    margin-top: -15px;
+}
+
+.intro{
+    font-size: 18px;
+    font-family: 'Saira', sans-serif;
+    color: #E8EAF0;
+    background-color: rgba(2, 48, 71, 0.5);
+    padding: 20px;
+}
+
+.quote {
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    color: #FFFFFF;
+}
