@@ -233,3 +233,34 @@ table, tr, td {
     font-size: 40px;
     color: #8ECAE6;
 }
+
+table, th, td {
+    border: 0px solid;
+  }
+
+table {
+    margin-top: 20px;
+    width: 80%;
+    font-size: 18px;
+}
+
+.sections{
+    text-align: right;
+    font-family: 'Saira', sans-serif;
+    padding-right: 10px;
+    font-weight: bold;
+    color: #FFB703;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.fills{
+    text-align: left;
+    font-family: 'Saira', sans-serif;
+    padding-left: 10px;
+    color: #FFFFFF;
+}
+
+hr{
+    width: 75%;
+}
