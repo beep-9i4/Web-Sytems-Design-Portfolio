@@ -264,3 +264,29 @@ table {
 hr{
     width: 75%;
 }
+
+.zoom-socials {
+    transition: transform .2s;
+    width: 200px;
+    /*height: 200px;*/
+    margin: 0 auto;
+}
+
+.zoom-socials:hover {
+    -ms-transform: scale(1.0); 
+    -webkit-transform: scale(1.0);
+    transform: scale(1.3); 
+}
+
+.my-icon-socials {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.contact-col-socials{
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
